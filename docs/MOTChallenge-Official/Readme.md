@@ -79,7 +79,7 @@ However, each line is still required to contain 10 values.
 All frame numbers, target IDs and bounding boxes are 1-based. Here is an example:
 
 <pre>
-\<frame\> <id> <bbox_left> <bbox_top> <bbox_width> <bbox_height> <conf> <3d_x> <3d_y> <3d_z>
+<frame> <id> <bbox_left> <bbox_top> <bbox_width> <bbox_height> <conf> <3d_x> <3d_y> <3d_z>
 1, 3, 794.27, 247.59, 71.245, 174.88, 1, -1, -1, -1
 1, 6, 1648.1, 119.61, 66.504, 163.24, 1, -1, -1, -1
 1, 8, 875.49, 399.98, 95.303, 233.93, 1, -1, -1, -1
